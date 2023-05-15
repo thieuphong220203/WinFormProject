@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalSE", "FinalSE\FinalSE.csproj", "{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}.Debug|x86.ActiveCfg = Debug|x86
+		{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}.Debug|x86.Build.0 = Debug|x86
+		{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}.Release|x86.ActiveCfg = Release|x86
+		{1BD233EA-A3FF-4BA3-A6BF-578241DB4F6F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A374932-BE10-4C46-8603-8C08F81F3F97}
+	EndGlobalSection
+EndGlobal
